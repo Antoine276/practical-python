@@ -12,7 +12,7 @@ iExtraPaymentFirstMonth = 61       # First month of extra payment
 iExtraPaymentLastMonth = 108       # Last month of extra payment
 fTotalPaid = 0.0                   # Total currently paid
 
-# Declarations and Initialisation
+# Declarations and Initialisations
 iMonth = 1                         # Current number of months
 fPayment = 0                       # Current payment
 
